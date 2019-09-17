@@ -1,3 +1,6 @@
+body {
+  background-image:url("background.jpg"); }
+
 #table-uno { width: 800px; }
 #uno-td { width:200px; text-align:center;}
-body { background-image:url("background.jpg"); }
+]
