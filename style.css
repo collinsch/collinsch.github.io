@@ -2,7 +2,7 @@ body {
   background-image: url("backgroundr.jpg");
   background-repeat: no-repeat;
 }
-
+#banr { text-align:center; }
 #table-uno { width: 800px; }
 #uno-td { width:200px; text-align:center;}
 ]
